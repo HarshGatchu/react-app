@@ -64,6 +64,9 @@ class HomePage extends Component {
 						<p>To change it to real authentication, you’d only have to import <code>request.js</code> instead of <code>fakeRequest.js</code> and have a server running somewhere.</p>
 					</section>
 				</div>
+				<div>
+				<h1> HomePage</h1>
+				</div>
 			</article>
 		);
   }
